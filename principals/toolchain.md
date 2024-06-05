@@ -16,7 +16,7 @@ Microsoft 365 is secondary choice and will be procured per request, except for f
 
 # IDE
 Paid IDE
-- Jetbrains all in one
+- Jetbrains all in one (All Products Pack subscription)
 
 Free IDE
 - VSCode
