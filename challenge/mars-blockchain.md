@@ -43,3 +43,5 @@ Clearly state all assumptions made during the design and explicitly state refere
 This assignment is designed by Michael Edge, the vice Global Blockchain Lead of AWS Profesional Service. 
 
 This is the code test for a Blockchain Architect role at 2019
+
+Mostly, this assignment can be done by enterprise blockchain.
