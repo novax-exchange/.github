@@ -9,6 +9,16 @@ Github services should be prefered to accomplish below tasks
 # No Excel Swamp
 - Data pipeline should be applied to all functional department: Sales, BA, Marketing and all other research analyst.
 - Even we are in Excel, use Excel as data tool (data sheet + pivot table)
+# less is preferred
+Below application design patterns are preferred
+- DB ConnectionLess
+- serverless and BEaaS
+- Evolutional architecture
+# Deterministic applies, a lot
+- Idempotent API and data pipeline. Make them like blockchain oracle
+- Immutable variable
+- 
+
 
 
 
