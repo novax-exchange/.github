@@ -14,6 +14,13 @@ Microsoft 365 is secondary choice and will be procured per request, except for f
 - Azure Cloud role
 - Role in Professional Service business unit
 
+# IDE
+Paid IDE
+- Jetbrains all in one
+
+Free IDE
+- VSCode
+
 # No Excel Swamp
 - Data pipeline should be applied to all functional department: Sales, BA, Marketing and all other research analyst.
 - Even we are in Excel, use Excel as data tool (data sheet + pivot table)
