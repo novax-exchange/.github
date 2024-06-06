@@ -7,4 +7,5 @@ A variant of [AWS Leadership Principles](https://www.aboutamazon.com/about-us/le
 - Talk is cheap, show me the artifact
 - re:Invent
 - Can-do attitude
-- Grow then dominate from challenger, and you are addicted to it.
+- Grow then dominate from challenger, and you are addicted to it
+- If you need it, you build it. While others are happy to help, they ensure it can be rebuilt.
