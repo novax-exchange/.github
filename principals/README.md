@@ -9,5 +9,7 @@ A variant of [AWS Leadership Principles](https://www.aboutamazon.com/about-us/le
 - re:Invent. You must have a history of frustrations by "Not invent here"
 - Can-do attitude
 - Grow as challenger then dominate the realm. We are addicted to it
-- If you need it, you own it. The responsiblity is auto-assigned to the requestor. While others are happy to help, they ensure it can be reviewed, validated and transfered.
+- If you need it, you own it.
+  - The responsiblity is auto-assigned to the requestor.
+  - While others are happy to help, they ensure it can be reviewed, validated and transfered.
 - The performance is measured on how and what you contribute to help internal and/or external community.
