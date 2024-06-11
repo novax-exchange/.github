@@ -1,10 +1,11 @@
-# Platform Engineering 
-- Platform engineering team is a squad that focuses on improving  software development productivity, application cycle time, and speed to market.
-- Platform engineering team leverages a multidisciplinary approach to improving work culture and productivity, and positively impacting the bottom line.
-## Responsibility
-  - Explore and evaluate internal and external solution of for other functional LOBs: sales, marketing, customer service and support, security and compliance.
-	- Streamline application time-to-market, optimize operations, and improve efficiencies in development, deployment, management, and maintenance of applications, by building automated programs not man-power.
-	- Identify the pain points impacting development teams and mitigate them by providing common, reusable tools and capabilities
+# Platform Engineering
+- Based on [Platform Engineering in Software Dev](https://github.com/davidkhala/As-Architect/blob/main/role/platform-engineering.md)
+- In NovaX, Platform engineering also cover enterprise capability and enterprise efficiency.
+## Responsibility in NovaX
+- Based on [Platform Engineering in Software Dev](https://github.com/davidkhala/As-Architect/blob/main/role/platform-engineering.md)
+- Explore and evaluate internal and external solution of for other functional LOBs: sales, marketing, customer service and support, security and compliance.
+- Built automated programs
+
 ## Working domain
 build and/or maintain followings
 - Enterprise capability reusables (Sales, Marketing, Customer Support, Accounting)
@@ -23,7 +24,7 @@ Culture
 - Can-do attitude while insist on bottom up resolution
   - Plan to become an industry leader by starting with challenger execution 
 - Practitioner of Amazon Leadership Principles
-  - Has a history of get frustrated by "Not invent here"
+  - 
 - "Talk with MS 365 is cheap, show me the data and/or code"
   - no ppt upward reporting, no excel swamp
 - In your non-office hours, enjoy hackathon and open source community
