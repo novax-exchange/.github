@@ -13,3 +13,11 @@ A variant of [AWS Leadership Principles](https://www.aboutamazon.com/about-us/le
   - The responsiblity is auto-assigned to the requestor.
   - While others are happy to help, they ensure it can be reviewed, validated and transfered.
 - The performance is measured on how and what you contribute to help internal and/or external community.
+
+## Common Capabilities
+- Engineering mania. Data and/or Code, we are capable of both/either one. 
+- With architecture sense. You can smell bad design before construction
+- Familiar with COTS solutions in market, at least those revealed in Gartner Magic Quadrant.
+- Keep decision lineage
+  - Thinkmap/mindmap as brainstorm record and execution blueprint
+
