@@ -8,12 +8,12 @@ A variant of [AWS Leadership Principles](https://www.aboutamazon.com/about-us/le
 - Talk is cheap, show me the artifact
   - A fork of AWS "Bias for Action"
 - To solve problem, we insist on bottom-up approach
-  - A fork for "Dive Deep"
+  - A fork of AWS "Dive Deep"
 
 - re:Invent. You must have a history of frustrations by "Not invent here"
   - A fork of AWS "Invent and Simplify"
 - Can-do attitude
-  - "The next big thing? Your career" -- GFT
+  - "The next big thing? Your career"
   - We believe in yourself and we are confident to change how the world operates. 
   - Grow as challenger then dominate the realm. We are addicted to it
 - If you need it, you own it.
