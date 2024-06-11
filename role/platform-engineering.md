@@ -19,21 +19,13 @@ build and/or maintain followings
 - Other scalable MVP
 
 ## Requirement
-Culture
-- Self-management
-- Can-do attitude while insist on bottom up resolution
-  - Plan to become an industry leader by starting with challenger execution 
-- Practitioner of Amazon Leadership Principles
-  - 
-- "Talk with MS 365 is cheap, show me the data and/or code"
-  - no ppt upward reporting, no excel swamp
-- In your non-office hours, enjoy hackathon and open source community
+Culture fitness: See in our [principals](https://github.com/novax-exchange/.github/tree/main/principals)
+
 Capabilities
-- With architecture sense that can smell bad design before construction
-- Product mindset instead of project mindset.
-  - Familiar with massive COTS solution, at least those revealed in Gartner Magic Quadrant.
-  - Make decision by thinkmap/mindmap as blueprint and assertation in integration tests as reproducible proof
-  
-  - For each technical domain you expertise in, capable to design and compare exclusive and competing solutions.
-- Technical presale experience is preferred.
+- Based on [common-capabilities](https://github.com/novax-exchange/.github/blob/main/principals/README.md#common-capabilities)
+- Advanced decision lineage: build assertation in integration tests as reproducible proof
+- For each technical domain you expertise in, capable to design and compare exclusive and competing solutions.
+
+## Preferred 
+- Past technical presale experience.
 - Have your own build tools that as personal product with maintainence history.
