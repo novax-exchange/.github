@@ -16,7 +16,8 @@ A variant of [AWS Leadership Principles](https://www.aboutamazon.com/about-us/le
 
 ## Common Capabilities
 - Engineering mania. Data and/or Code, we are capable of both/either one. 
-- With architecture sense. You can smell bad design before construction
+- With architecture sense.
+  - You can smell bad design before construction, procure or adopt.
 - Familiar with COTS solutions in market, at least those revealed in Gartner Magic Quadrant.
 - Keep decision lineage
   - Thinkmap/mindmap as brainstorm record and execution blueprint
