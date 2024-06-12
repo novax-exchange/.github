@@ -1,4 +1,4 @@
-# NovaX Leadership Principal
+# NovaX Leadership Principals
 
 A variant of [AWS Leadership Principles](https://www.aboutamazon.com/about-us/leadership-principles)
 ## Meta Principals
