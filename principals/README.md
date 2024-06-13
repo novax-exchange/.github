@@ -24,11 +24,14 @@ A variant of [AWS Leadership Principles](https://www.aboutamazon.com/about-us/le
 
 ## Common Capabilities
 - Engineering mania. Data and/or Code, we are capable of both/either one.
-  - A fulfillment of "Earn Trust"
+  - A fulfillment of AWS "Earn Trust"
 - With architecture sense.
   - To support AWS "Are Right, A Lot"
   - You can smell bad design before construction, procurement or adoption.
 - Familiar with COTS solutions in market, at least those revealed in Gartner Magic Quadrant.
 - Keep decision lineage
   - Thinkmap/mindmap as brainstorm record and execution blueprint
+- Multitask handler
+  - The higher diversity level of roles your career had taken, the better.
+  - Each role involved will be measured by the level of ownership.
 
