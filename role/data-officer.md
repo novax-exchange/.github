@@ -1,9 +1,11 @@
 # Data officer
-A Data Officer (CDO) is a executive responsible for
+A Data Officer is a executive responsible for
 - manage the data strategy
 - Quality and governance of data
-- Interpreting data
-- Leveraging value from data as a business asset
-- produces data-driven insights
-- Accelerate the company efficiency and productivity by Data
+- Serve internal data consumer
+  - Interpret data and produce data-driven insights
+  - Accelerate the company efficiency and productivity by Data
+- Monetizing data (outbound)
+  - Leveraging value from data as a business asset
+  - Lead financial product design with Risk Management team
 - AI business owener. Raise for Service request for Platform Engineering.
