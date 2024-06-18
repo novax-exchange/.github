@@ -9,7 +9,8 @@ A variant of [AWS Leadership Principles](https://www.aboutamazon.com/about-us/le
   - A fork of AWS "Bias for Action"
 - To solve problem, we insist on bottom-up approach
   - A fork of AWS "Dive Deep"
-
+- Less is preferred
+  - Complexity is measured in a long term time span.
 - re:Invent. You must have a history of frustrations by "Not invent here"
   - A fork of AWS "Invent and Simplify"
 - Can-do attitude
