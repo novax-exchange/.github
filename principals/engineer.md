@@ -6,6 +6,7 @@
 - Deterministic applies a lot
 - Adopts evolutional architecture
 - Keep stateless and sessionless. Only persistent data is exempted to be stateful.
+- 
 ## Principal for Data team
 - Deterministic: data pipeline should be reproducible
 
@@ -19,4 +20,6 @@
   - VM as k8s Node: -> serverless k8s,  -> container as service (aws Fargate, Azure Function, GCP Cloud Run)
   - VM as static web site hosting -> S3
 - BM for Trading core
+- Versionless： use latest
+  - 
 
