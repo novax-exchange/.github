@@ -20,3 +20,5 @@ The initial purpose of this brain training was to warm up his hands as preparati
 Finally, 30 minutes were spent on complete it as his speed record.
 
 Typically, for other candidates, we can accept 1-2 weeks time spending on it.
+
+<!--A good submission example you can refer to https://github.com/rebootshen/file-management -->
