@@ -1,5 +1,6 @@
 # Exclude project mindset
-We are a long lasting product team and doing value-based business, there is no ends of delivery or wrap up
+We are a long lasting product team and doing value-based business, there is no delivery or wrap up. 
+- Instead we have release(CD) and assertations(CI)
 
 # No upward reporting
 It is designed to avoid manipulating, 粉饰太平 or waste time just to satisfy manager.
