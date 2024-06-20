@@ -17,3 +17,7 @@ Upward reporting including town-hall meeting, static BI analytic report, one-off
 We still uses MicroSoft 365 as outbound compatible media. But
 - It should not work as data exchange media
 
+# Security is A/B test compliant
+If there is no way of being insecure, then there is no security
+- If security option is configured as A, then corresponding insecure case should be setup as B option simutanesly. 
+- Assertions of both side should appear as a pair.
