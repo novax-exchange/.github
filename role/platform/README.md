@@ -27,5 +27,4 @@ Capabilities
 - For each technical domain you expertise in, capable to design and compare exclusive and competing solutions.
 
 ## Preferred 
-- Past technical presale experience.
 - Have your own build tools that as personal product with maintainence history.
