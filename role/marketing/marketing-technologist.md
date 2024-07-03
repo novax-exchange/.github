@@ -6,7 +6,7 @@ A marketing executive who's in charge of tech-related when it comes to marketing
 - You offload neccessary tool request to [Platform engineering team](https://github.com/novax-exchange/.github/blob/main/role/platform-engineering.md).
 
 
-## Requirement
+## Requirements
 As Hyper Full-stack
 - If allowed, you can have capability to handle task as Business Analyst, UI/UX design, Solution Architect, Solution Developer (Full-stack in narrow sense) and DevOps. In each task journey you will be accelerated by Platform Engineering team. 
 - Feel comfortable with marketing teammates in fast-changing and uncertain environment.
