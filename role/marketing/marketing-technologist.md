@@ -5,6 +5,7 @@ A marketing executive who's in charge of tech-related when it comes to marketing
 - You collaborate with the information officer to use IaaS, PaaS and SaaS
 - You offload neccessary tool request to [Platform engineering team](https://github.com/novax-exchange/.github/blob/main/role/platform-engineering.md).
 
+## [About Us](../README.md#about-us)
 
 ## Requirements
 As Hyper Full-stack
@@ -13,3 +14,6 @@ As Hyper Full-stack
 - Experience in Hackathon is highly prefered. 
 
 Occasional travel to oversea in a frequency of marketing events is required
+
+
+## [What We Offer](../README.md#what-we-offer)

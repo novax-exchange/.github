@@ -1,14 +1,14 @@
 # Platform Engineering
 
+## [About Us](../README.md#about-us)
 
 ## Job Description
 Based on [Platform Engineering in Software Dev](https://github.com/davidkhala/As-Architect/blob/main/role/platform-engineering.md)
 - In NovaX, Platform engineering also cover enterprise capability and enterprise efficiency.
 
 ## Responsibilities
-- Based on [Platform Engineering in Software Dev](https://github.com/davidkhala/As-Architect/blob/main/role/platform-engineering.md)
 - Explore and evaluate internal and external solution of for other functional LOBs: sales, marketing, customer service and support, security and compliance.
-- Built automated programs
+- Build automated programs
 
 ## Working domain
 build and/or maintain followings
@@ -18,7 +18,7 @@ build and/or maintain followings
   - Enterprise Architecture repository
 - Login (IAM federation, SAML)
 - Cloud (PaaS and SaaS) autonomous
-- Data platform and pipeline
+- Data Infrastructure
 - 3rd party integration
 - Other scalable MVP
 
@@ -28,3 +28,5 @@ build and/or maintain followings
 
 ## Preferred Qualifications
 - Have your own build tools that as personal product with maintainence history.
+
+## [What We Offer](../README.md#what-we-offer)
