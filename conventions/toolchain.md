@@ -1,3 +1,4 @@
+> For other detailed toolchain we have shortlisted, please go to our private repository https://github.com/novax-exchange/build-block
 # Github first
 Github services should be prefered to accomplish below tasks
 - Project management: Github Projects
@@ -16,3 +17,5 @@ Microsoft 365 is secondary choice and will be procured per request, except for f
 
 # Build Your Own
 - Jetbrains all in one (All Products Pack subscription)
+
+
