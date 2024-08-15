@@ -19,7 +19,8 @@
   - VM as bastion: for operation purpose only, as another desktop, as a control plane for thick client 
   - VM as k8s Node: -> serverless k8s,  -> container as service (aws Fargate, Azure Function, GCP Cloud Run)
   - VM as static web site hosting -> S3
-- BM for Trading core
+- BM for Trading core only
 - Versionless： use latest
-  - 
-
+- `.gitignore` defined for the right-scope
+   - Reuse Novax global `.gitignore`
+   - `.gitignore` in project folder only exclude folder scope, even it is in root folder
