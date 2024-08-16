@@ -5,7 +5,6 @@
 Application Deployment target: k8s
 
 CICD: Github Workflow
-- Execute migration from GitLabCI to Github Workflow
 
 Infrastructure as Code
 - Rebuild IaC definig current deploy to IaC definition
