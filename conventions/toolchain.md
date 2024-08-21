@@ -22,9 +22,10 @@ Microsoft 365 is secondary choice and will be procured per request, except for f
 Google is the major identity provider
 - [Employee onboarding](https://github.com/novax-exchange/HCM/blob/main/onboarding/google.md)
 
-Microsoft is secondary choice per specific use cases
-- Github.com (only if you don't have )
-- 
+Microsoft is secondary choice per specific below use cases
+- Github.com
+- Microsoft Data Fabric
+
 
 
 
