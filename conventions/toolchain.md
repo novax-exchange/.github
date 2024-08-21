@@ -7,13 +7,28 @@ Github services should be prefered to accomplish below tasks
 - Wiki: Github Wiki / Gist / Github Repository
 - Source code hosting: Github Repository
 
-# Google identity
+[Employee onboarding](https://github.com/novax-exchange/HCM/blob/main/onboarding/github.md)
+
+
+# office automation (OA) system
 Google Workspace is adopted as the primary email and office automation system provider
 
 Microsoft 365 is secondary choice and will be procured per request, except for following roles
 - Data role
 - Azure Cloud role
-- Role in Professional Service business unit
+- Customer facing role
+
+# Identity
+Google is the major identity provider
+- [Employee onboarding](https://github.com/novax-exchange/HCM/blob/main/onboarding/google.md)
+
+Microsoft is secondary choice per specific use cases
+- Github.com (only if you don't have )
+- 
+
+
+
+
 
 # Build Your Own
 - Jetbrains all in one (All Products Pack subscription)
