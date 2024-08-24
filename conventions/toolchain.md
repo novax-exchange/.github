@@ -18,6 +18,10 @@ Microsoft 365 is secondary choice and will be procured per request, except for f
 - Azure Cloud role
 - Customer facing role
 
+# IM channel 
+- Avoid email as major communication channel.
+
+
 # Identity
 Google is the major identity provider
 - [Employee onboarding](https://github.com/novax-exchange/HCM/blob/main/onboarding/google.md)
@@ -25,10 +29,6 @@ Google is the major identity provider
 Microsoft is secondary choice per specific below use cases
 - Github.com
 - Microsoft Data Fabric
-
-
-
-
 
 
 # Build Your Own
