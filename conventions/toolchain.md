@@ -28,7 +28,7 @@ Google is the major identity provider
 
 Microsoft is secondary choice per specific below use cases
 - Github.com
-- Microsoft Data Fabric
+- Microsoft Fabric
 
 
 # Build Your Own
