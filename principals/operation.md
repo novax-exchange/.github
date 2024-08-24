@@ -10,13 +10,6 @@ It is designed to avoid manipulating, 粉饰太平 or waste time just to satisfy
 
 Upward reporting including town-hall meeting, static BI analytic report, one-off demo per request
 
-# IM channel 
-- Avoid email as major communication channel.
-
-# Talk with MS 365 is cheap, show me the data and/or code
-We still uses MicroSoft 365 as outbound compatible media. But
-- It should not work as data exchange media
-
 # Security is A/B test compliant
 If there is no way of being insecure, then there is no security
 - If security option is configured as A, then corresponding insecure case should be setup as B option simutanesly. 
