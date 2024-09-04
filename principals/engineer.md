@@ -19,7 +19,9 @@
   - VM as bastion: for operation purpose only, as another desktop, as a control plane for thick client 
   - VM as k8s Node: -> serverless k8s,  -> container as service (aws Fargate, Azure Function, GCP Cloud Run)
   - VM as static web site hosting -> S3
-- BM for Trading core only
+- Avoid BM, except for
+  - BM as personal device: desktop, workstation
+  - BM for performance sensitive workload. eg. Trading core
 - Never hide code by commment. Instead, delete them and make good use of Git history.
 - Versionless： use latest
 - `.gitignore` defined for the right-scope
