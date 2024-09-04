@@ -20,6 +20,7 @@
   - VM as k8s Node: -> serverless k8s,  -> container as service (aws Fargate, Azure Function, GCP Cloud Run)
   - VM as static web site hosting -> S3
 - BM for Trading core only
+- Never hide code by commment. Instead, delete them and make good use of Git history.
 - Versionless： use latest
 - `.gitignore` defined for the right-scope
    - Reuse Novax global `.gitignore`
